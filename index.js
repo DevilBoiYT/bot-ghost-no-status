@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Admins","Watching Creaters","Playing with Tiers"];
+const statusMessages = ["Listening to Admins","Watching Cheaters","Playing with Tiers"];
 
 
 let currentIndex = 0;
